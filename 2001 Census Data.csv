@@ -1,0 +1,624 @@
+City,CITY_ID,STATE_ID
+Adilabad,C001,S01
+Anantapur,C002,S01
+Chittoor,C003,S01
+East Godavari,C004,S01
+Guntur,C005,S01
+Hyderabad & Rangareddy,C006,S01
+Kadapa,C007,S01
+Karimnagar,C008,S01
+Khammam,C009,S01
+Krishna,C010,S01
+Kurnool,C011,S01
+Mahboob Nagar,C012,S01
+Medak,C013,S01
+Nalgonda,C014,S01
+Nellore,C015,S01
+Nizambad,C016,S01
+Prakasam,C017,S01
+Srikakulam,C018,S01
+Vishakapatnam,C019,S01
+Vijaynagaram T,C020,S01
+Warangal,C021,S01
+West Godawari,C022,S01
+Changlang,C023,S02
+DibangValley,C024,S02
+Kameng East & Kameng West,C025,S02
+Lohit,C026,S02
+Popumpare,C027,S02
+Siang East,C028,S02
+Siang Upper,C029,S02
+Siang West,C030,S02
+Subansiri Lower,C031,S02
+Subansiri Upper,C032,S02
+Tawang,C033,S02
+Tirap,C034,S02
+Barpeta,C035,S03
+Bongaigaon,C036,S03
+Cahar,C037,S03
+Darrang,C038,S03
+Dhemaji,C039,S03
+Dhubari,C040,S03
+Dibrugarh,C041,S03
+Goalpara,C042,S03
+Goalghat,C043,S03
+Hailakandi,C044,S03
+Jorhat,C045,S03
+Kamrup,C046,S03
+Karbi Anglong,C047,S03
+Karimganj,C048,S03
+Kokrajhar,C049,S03
+Lakhimpur,C050,S03
+Morigaon,C051,S03
+North Cachar Hills,C052,S03
+Naogaon,C053,S03
+Nalbari,C054,S03
+Sibsagar,C055,S03
+Sonitpur,C056,S03
+Tinsukia,C057,S03
+Araria,C058,S04
+Aurangabad,C059,S04
+Banka,C060,S04
+Begusarai,C061,S04
+Bhabua,C062,S04
+Bhagalpur,C063,S04
+Bhojpur,C064,S04
+Buxar,C065,S04
+Darbhanga,C066,S04
+Gaya,C067,S04
+Gopalganj,C068,S04
+Jamui,C069,S04
+Jehanabad,C070,S04
+Katihar,C071,S04
+Khagaria,C072,S04
+Kishanganj,C073,S04
+Lakhisarai,C074,S04
+Madhepura,C075,S04
+Madhubani,C076,S04
+Munger,C077,S04
+Muzaffarpur,C078,S04
+Nalanda,C079,S04
+Nawada,C080,S04
+Pashchimi Champaran,C081,S04
+Patna,C082,S04
+Purbi Champaran,C083,S04
+Purnia,C084,S04
+Rohtas,C085,S04
+Saharsa,C086,S04
+Samastipur,C087,S04
+Saran,C088,S04
+Sheikhpura,C089,S04
+Sheohar,C090,S04
+Sitamarhi,C091,S04
+Siwan,C092,S04
+Supaul,C093,S04
+Vaishali,C094,S04
+Bastar,C095,S05
+Bijapur,C096,S05
+Bilaspur,C097,S05
+Dakshin Bastar Dantewada,C098,S05
+Durg,C099,S05
+Janjgir - Champa,C100,S05
+Jashpur,C101,S05
+Kabeerdham,C102,S05
+Korba,C103,S05
+Koriya,C104,S05
+Mahasamund,C105,S05
+Narayanpur,C106,S05
+Raigarh,C107,S05
+Dhamtari,C108,S05
+Raipur,C109,S05
+Rajnandgaon,C110,S05
+Surguja,C111,S05
+Uttar Bastar Kanker,C112,S05
+Adilabad,C113,S06
+Karimnagar,C114,S06
+Khammam,C115,S06
+Hyderabad ,C116,S06
+Rangareddy,C117,S06
+Mahboob Nagar,C118,S06
+Medak,C119,S06
+Nalgonda,C120,S06
+Nizambad,C121,S06
+Warangal,C122,S06
+Ahmadabad,C123,S07
+Amreli,C124,S07
+Anand,C125,S07
+Banas Kantha,C126,S07
+Bharuch,C127,S07
+Bhavnagar,C128,S07
+Dohad,C129,S07
+Gandhinagar,C130,S07
+Jamnagar,C131,S07
+Junagadh,C132,S07
+Kachchh,C133,S07
+Kheda,C134,S07
+Mahesana,C135,S07
+Narmada,C136,S07
+Navsari,C137,S07
+Panch Mahals,C138,S07
+Patan,C139,S07
+Porbandar,C140,S07
+Rajkot,C141,S07
+Sabar Kantha,C142,S07
+Surat,C143,S07
+Surendranagar,C144,S07
+Tapi,C145,S07
+The Dangs,C146,S07
+Vadodara,C147,S07
+Valsad,C148,S07
+Ambala,C149,S08
+Bhiwani,C150,S08
+Faridabad,C151,S08
+Fatehabad,C152,S08
+Gurgaon,C153,S08
+Hisar,C154,S08
+Jhajjar,C155,S08
+Jind,C156,S08
+Kaithal,C157,S08
+Karnal,C158,S08
+Kurukshetra,C159,S08
+Mahendragarh,C160,S08
+Mewat,C161,S08
+Palwal,C162,S08
+Panchkula,C163,S08
+Panipat,C164,S08
+Rewari,C165,S08
+Rohtak,C166,S08
+Sirsa,C167,S08
+Sonipat,C168,S08
+Yamunanagar,C169,S08
+Bilaspur,C170,S09
+Chamba,C171,S09
+Hamirpur,C172,S09
+Kangra,C173,S09
+Kinnaur,C174,S09
+Kullu,C175,S09
+Lahul AND Spiti,C176,S09
+Mandi,C177,S09
+Shimla,C178,S09
+Sirmaur,C179,S09
+Solan,C180,S09
+Una,C181,S09
+Anantnag,C182,S10
+Badgam,C183,S10
+Bandipore,C184,S10
+Baramula,C185,S10
+Doda,C186,S10
+Ganderbal,C187,S10
+Jammu,C188,S10
+Kargil,C189,S10
+Kathua,C190,S10
+Kishtwar,C191,S10
+Kulgam,C192,S10
+Kupwara,C193,S10
+Leh(Ladakh),C194,S10
+Pulwama,C195,S10
+Poonch,C196,S10
+Rajouri,C197,S10
+Ramban,C198,S10
+Reasi,C199,S10
+Samba,C200,S10
+Shupiyan,C201,S10
+Srinagar,C202,S10
+Udhampur,C203,S10
+Bokaro,C204,S11
+Chatra,C205,S11
+Deoghar,C206,S11
+Dhanbad,C207,S11
+Dumka,C208,S11
+Garhwa,C209,S11
+Giridih,C210,S11
+Godda,C211,S11
+Gumla,C212,S11
+Hazaribagh,C213,S11
+Jamtara,C214,S11
+Khunti,C215,S11
+Kodarma,C216,S11
+Latehar,C217,S11
+Lohardaga,C218,S11
+Pakur,C219,S11
+Palamu,C220,S11
+Pashchimi Singhbhum,C221,S11
+Purbi Singhbhum,C222,S11
+Ramgarh,C223,S11
+Ranchi,C224,S11
+Sahibganj,C225,S11
+Saraikela-Kharsawan,C226,S11
+Simdega,C227,S11
+Bagalkot,C228,S12
+Bangalore,C229,S12
+Bangalore Rural,C230,S12
+Belgaum,C231,S12
+Bellary,C232,S12
+Bidar,C233,S12
+Bijapur,C234,S12
+Chamarajanagar,C235,S12
+Chikkaballapura,C236,S12
+Chikmagalur,C237,S12
+Chitradurga,C238,S12
+Dakshina Kannada,C239,S12
+Davanagere,C240,S12
+Dharwad,C241,S12
+Gadag,C242,S12
+Gulbarga,C243,S12
+Hassan,C244,S12
+Haveri,C245,S12
+Kodagu,C246,S12
+Kolar,C247,S12
+Koppal,C248,S12
+Mandya,C249,S12
+Mysore,C250,S12
+Raichur,C251,S12
+Ramanagara,C252,S12
+Shimoga,C253,S12
+Tumkur,C254,S12
+Udupi,C255,S12
+Uttara Kannada,C256,S12
+Yadgir,C257,S12
+Alappuzha,C258,S13
+Ernakulam,C259,S13
+Idukki,C260,S13
+Kannur,C261,S13
+Kasaragod,C262,S13
+Kollam,C263,S13
+Kottayam,C264,S13
+Kozhikode,C265,S13
+Malappuram,C266,S13
+Palakkad,C267,S13
+Pathanamthitta,C268,S13
+Thiruvananthapuram,C269,S13
+Thrissur,C270,S13
+Wayanad,C271,S13
+Alirajpur,C272,S14
+Anuppur,C273,S14
+Ashoknagar,C274,S14
+Balaghat,C275,S14
+Barwani,C276,S14
+Betul,C277,S14
+Bhind,C278,S14
+Bhopal,C279,S14
+Burhanpur,C280,S14
+Chhatarpur,C281,S14
+Chhindwara,C282,S14
+Damoh,C283,S14
+Datia,C284,S14
+Dewas,C285,S14
+Dhar,C286,S14
+Dindori,C287,S14
+Guna,C288,S14
+Gwalior,C289,S14
+Harda,C290,S14
+Hoshangabad,C291,S14
+Indore,C292,S14
+Jabalpur,C293,S14
+Jhabua,C294,S14
+Katni,C295,S14
+Khandwa (East Nimar),C296,S14
+Khargone (West Nimar),C297,S14
+Mandla,C298,S14
+Mandsaur,C299,S14
+Morena,C300,S14
+Narsimhapur,C301,S14
+Neemuch,C302,S14
+Panna,C303,S14
+Raisen,C304,S14
+Rajgarh,C305,S14
+Ratlam,C306,S14
+Rewa,C307,S14
+Sagar,C308,S14
+Satna,C309,S14
+Sehore,C310,S14
+Seoni,C311,S14
+Shahdol,C312,S14
+Shajapur,C313,S14
+Sheopur,C314,S14
+Shivpuri,C315,S14
+Sidhi,C316,S14
+Singrauli,C317,S14
+Tikamgarh,C318,S14
+Ujjain,C319,S14
+Umaria,C320,S14
+Vidisha,C321,S14
+Ahmadnagar1,C322,S15
+Akola,C323,S15
+Amravati1,C324,S15
+Aurangbad,C325,S15
+Bhandara,C326,S15
+Bid,C327,S15
+Buldhana,C328,S15
+Chandrapur1,C329,S15
+DhuleT,C330,S15
+Gadchiroli1,C331,S15
+Gondia,C332,S15
+Hingoli,C333,S15
+Jalgaon1,C334,S15
+Jalna,C335,S15
+Kolhapur,C336,S15
+Latur,C337,S15
+Mumbai City,C338,S15
+Mumbai Suburban,C339,S15
+Nagpur1,C340,S15
+Nanded,C341,S15
+Nandurbar1,C342,S15
+Nasik,C343,S15
+Osmanabad,C344,S15
+Parbani,C345,S15
+Pune,C346,S15
+Raigarh,C347,S15
+Ratnagiri,C348,S15
+Sangli,C349,S15
+SataraH,C350,S15
+Sholapur,C351,S15
+Sindhudurg,C352,S15
+Thane1,C353,S15
+Wardha,C354,S15
+Washim,C355,S15
+Yavatmal1,C356,S15
+Bishnupur,C357,S16
+Chandel,C358,S16
+Churachandpur,C359,S16
+Imphal East,C360,S16
+Imphal West,C361,S16
+Senapati,C362,S16
+Tamenglong,C363,S16
+Thoubal,C364,S16
+Ukhrul,C365,S16
+East GaroHills,C366,S17
+East Khasi Hills,C367,S17
+Jaintia,C368,S17
+Ribhoi,C369,S17
+South GaroHills,C370,S17
+West GaroHills,C371,S17
+West Khasi Hills,C372,S17
+Aizwal,C373,S18
+Champhai,C374,S18
+Kolasib,C375,S18
+Lawngtlai,C376,S18
+Lunglei,C377,S18
+Mamit,C378,S18
+Saiha,C379,S18
+Serchhip,C380,S18
+Dimapur,C381,S19
+Kohima,C382,S19
+Mokokchung,C383,S19
+Mon,C384,S19
+Phek,C385,S19
+Tuensang,C386,S19
+Wokha,C387,S19
+Zunheboto,C388,S19
+Angul,C389,S20
+Baleshwar1,C390,S20
+Baragarh,C391,S20
+Bhadrak,C392,S20
+Bolangir,C393,S20
+Boudh,C394,S20
+Cuttack,C395,S20
+Deogarh,C396,S20
+Dhenkanal,C397,S20
+Gajpatf,C398,S20
+Ganjam,C399,S20
+Jagatsinghpur,C400,S20
+Jajpur,C401,S20
+Jharsuguda,C402,S20
+Kalahandf,C403,S20
+Kendrapara,C404,S20
+Keonjhar1,C405,S20
+Khandamal1,C406,S20
+Khurda,C407,S20
+Koraput1,C408,S20
+Malkangirf,C409,S20
+Mayurbhanj1,C410,S20
+Nawapara,C411,S20
+Nawrangpur1,C412,S20
+Nayagarh,C413,S20
+Puri,C414,S20
+Rayagada1,C415,S20
+Sambalpur1,C416,S20
+Sonepur,C417,S20
+Sundargarh1,C418,S20
+Amritsar,C419,S21
+Bathinda,C420,S21
+Faridkot,C421,S21
+Fatehgarh Sahib,C422,S21
+Firozpur,C423,S21
+Gurdaspur,C424,S21
+Hoshiarpur,C425,S21
+Jalandhar,C426,S21
+Kapurthala,C427,S21
+Ludhiana,C428,S21
+Mansa,C429,S21
+Moga,C430,S21
+Muktsar,C431,S21
+Nawanshahar,C432,S21
+Patiala,C433,S21
+Roopnagar,C434,S21
+Sangrur,C435,S21
+Ajmer,C436,S22
+Alwar,C437,S22
+Banswara1,C438,S22
+Baran,C439,S22
+Barmer,C440,S22
+Bharatpur,C441,S22
+Bhilwara,C442,S22
+Bikaner,C443,S22
+Bundi,C444,S22
+Chittorgarh1,C445,S22
+Churu,C446,S22
+Dhaulpur,C447,S22
+Dungarpur1,C448,S22
+Ganganagar,C449,S22
+Jaipur,C450,S22
+Jaisalmer,C451,S22
+Jalore,C452,S22
+Jhalawar,C453,S22
+Jhunjhunun,C454,S22
+Jodhpur,C455,S22
+Kota,C456,S22
+Nagaur,C457,S22
+Pali,C458,S22
+Rajsamand,C459,S22
+Sawai Madhopur,C460,S22
+Sikar,C461,S22
+Sirohf,C462,S22
+Tonk,C463,S22
+Udaipur1,C464,S22
+East,C465,S23
+North,C466,S23
+South,C467,S23
+West,C468,S23
+Ariyalur,C469,S24
+Chennai,C470,S24
+Coimbatore,C471,S24
+Cuddalore,C472,S24
+Dharampurf,C473,S24
+Dindigul (Anna),C474,S24
+Erode (Periyar),C475,S24
+Kancheepuram,C476,S24
+Kanniyakumari,C477,S24
+Karur,C478,S24
+Madurai,C479,S24
+Nagapattinam,C480,S24
+Namakkal1,C481,S24
+Perambalur1,C482,S24
+Pudukkottai,C483,S24
+Ramanathapuram,C484,S24
+Salem1,C485,S24
+Sivaganga,C486,S24
+Thanjavur,C487,S24
+The NiligirisH,C488,S24
+Theni,C489,S24
+Thiruvallur,C490,S24
+Thiruvarur,C491,S24
+Tiruchchirapallf,C492,S24
+Tirunelveli,C493,S24
+Tiruvannamalaf,C494,S24
+Toothukudi,C495,S24
+Vellore,C496,S24
+Villupuram,C497,S24
+Virudhnagar,C498,S24
+Dhalai,C499,S25
+North Tripura,C500,S25
+South Tripura,C501,S25
+West Tripura,C502,S25
+Agra,C503,S26
+Aligarh,C504,S26
+Allahabad,C505,S26
+AmbedkarNagar,C506,S26
+Azamgarh,C507,S26
+Bagpat,C508,S26
+Bahraich&Shravasti,C509,S26
+Balia,C510,S26
+Balrampur,C511,S26
+Banda,C512,S26
+Barabanki,C513,S26
+Bareilly,C514,S26
+Basti,C515,S26
+Bijnore,C516,S26
+Badaun,C517,S26
+Bulandshahar,C518,S26
+Chandauli,C519,S26
+Chitrakoot,C520,S26
+Deoria,C521,S26
+Etah,C522,S26
+Etawa,C523,S26
+Faizabad,C524,S26
+Farrukhabad,C525,S26
+Fatehpur,C526,S26
+Firozabad,C527,S26
+Gautam Budh Nagar,C528,S26
+Ghaziabad,C529,S26
+Ghazipur,C530,S26
+Gonda,C531,S26
+Gorakhpur,C532,S26
+Hamirpur,C533,S26
+Hardoi,C534,S26
+Hathras,C535,S26
+Jyotiba Phule Nagar,C536,S26
+Jalaun,C537,S26
+Jaunpur,C538,S26
+Jhansi,C539,S26
+Kannauj,C540,S26
+Kanpur Nagar&Dehat,C541,S26
+Kaushambi,C542,S26
+Kheri,C543,S26
+Kushinagar,C544,S26
+Lalitpur,C545,S26
+Lucknow,C546,S26
+Maharajganj,C547,S26
+Mahoba,C548,S26
+Mainpuri,C549,S26
+Mathura,C550,S26
+Mau,C551,S26
+Meerut,C552,S26
+Mirzapur,C553,S26
+Moradabad,C554,S26
+Muzaffarnagar,C555,S26
+Oraiya,C556,S26
+Pilibhit,C557,S26
+Pratapgarh,C558,S26
+Rai Bareli,C559,S26
+Rampur,C560,S26
+Saharanpur,C561,S26
+Sant Kabir Nagar,C562,S26
+Sant Ravidas Nagar,C563,S26
+Shahjahanpur,C564,S26
+Siddharth Nagar,C565,S26
+Sitapur,C566,S26
+Sonbhadra,C567,S26
+Sultanpur,C568,S26
+Unnao,C569,S26
+Varanasi,C570,S26
+AlmoraH,C571,S27
+Bageshwar,C572,S27
+Chamoli,C573,S27
+Champawat,C574,S27
+Dehradun,C575,S27
+Pauri Garhwal,C576,S27
+Haridwar,C577,S27
+Nainital,C578,S27
+Pithoragarh,C579,S27
+Rudraprayag,C580,S27
+Tehri Garhwal,C581,S27
+UdhamSinghNagar,C582,S27
+Uttarkashi,C583,S27
+Bankura1,C584,S28
+Bardhman1,C585,S28
+Birbhum1,C586,S28
+Kolkata,C587,S28
+Coochbehar,C588,S28
+Dakshin Dinajpur1,C589,S28
+Darjeeling,C590,S28
+Howrah,C591,S28
+Hoogli,C592,S28
+Jalpaigurf,C593,S28
+MaldaT,C594,S28
+Medinipur1,C595,S28
+Murshidabad1,C596,S28
+Nadia,C597,S28
+North 24 Pargana,C598,S28
+Purulia1,C599,S28
+South 24 Pargana1,C600,S28
+Uttar Dinajpur,C601,S28
+North Goa,C602,S29
+South Goa,C603,S29
+Central Delhi,C604,UT01
+East Delhi,C605,UT01
+North-East Delhi,C606,UT01
+North-West Delhi,C607,UT01
+New Delhi,C608,UT01
+North Delhi,C609,UT01
+South-West Delhi,C610,UT01
+South Delhi,C611,UT01
+West Delhi,C612,UT01
+Andaman1,C613,UT02
+Nicobar1,C614,UT02
+Chandigarh,C615,UT03
+Dadra&NagarHavei,C616,UT04
+Daman,C617,UT05
+Diu,C618,UT05
+Lakshwadeep,C619,UT06
+Karaikal,C620,UT07
+Mahe,C621,UT07
+Puducherry,C622,UT07
+Yanam,C623,UT07
